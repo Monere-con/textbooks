@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+<description>
+<title-info>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+<author>
+<first-name></first-name>
+<last-name/>
+<home-page></home-page>
+</author>
+<book-title></book-title>
+<annotation>
+<p></p>
+</annotation>
+<coverpage>
+<image l:href="#cover.jpg"/>
+</coverpage>
+<lang>ru</lang>
+<sequence name="" number=""/>
+</title-info>
+<document-info>
+<author>
+<first-name></first-name>
+<last-name/>
+<home-page></home-page>
+</author>
+<date value="2000-01-01">2000-01-01</date>
+<src-url></src-url>
+<version>1.00</version>
+<history>
+</history>
+</document-info>
+</description>
+<body>
+<title>
+<p></p>
+<p></p>
+</title>
+<section>
+<title>
+<p>***</p>
+</title><empty-line/>
+<subtitle><strong>Примечания автора:</strong></subtitle>
+<p></p>
+<empty-line/>
+<subtitle><a l:href="">Страница книги</a></subtitle>
+<empty-line/>
+<p></p>
